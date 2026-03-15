@@ -48,6 +48,11 @@ h2 {
   color: #3a3a3a;
 }
 
+/* Rapor grupları */
+.report-group {
+  margin-top: 18px;
+}
+
 /* Rapor bağlantıları */
 .reports {
   margin-top: 15px;
